@@ -3,13 +3,7 @@
 ## Description
 This is my introduction to GitHub and coding in general
 ## How to Run Program
-Haven't quite Developed a program yet, however if I could it would look like
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+Haven't quite Developed a program yet
 ## Files Used
 [Work Website Address] https://transportation.uiowa.edu/
 ## Additional Documentation

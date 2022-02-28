@@ -1,8 +1,7 @@
 # Hello_World
 Practice Repository
 # H1
-**bold text**
-Nathan Bieber's Project
+**bold text** Nathan Bieber's Project
 # H2
 *italicized text*
 Description

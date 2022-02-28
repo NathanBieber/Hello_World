@@ -1,5 +1,6 @@
 
 # Nathan Bieber's Hello World
+Thank you and welcome to it 💻
 ## Description
 This is my introduction to GitHub and coding in general
 ## How to Run Program
